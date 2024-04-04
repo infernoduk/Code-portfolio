@@ -24,7 +24,7 @@
           <li><h4>Web Development.</h4>
             <div id="school"><ul><li><a href="https://infernoduk.github.io/Code-portfolio/" target="_blank">ST dt school Website</a></li>
                 <p>This is my individual website built with HTML and CSS. 
-                It is a school website that provides details about the school. 
+                It is a school website that offers tech related courses.Students can enroll to the school by registering and creating an account with the school. 
                     This website provides information about st.dt academy their achievements,courses,teachers and a gallery .</p>
               <li><b>NOTE:</b><p>The project is still being worked on.</p></li>
               </ul></div>
