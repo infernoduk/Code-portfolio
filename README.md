@@ -94,7 +94,7 @@ intended, you can efficiently manage your products and track your sales.
                     <p>I have also done other simple practice tasks in python and c++. 
                         These hepls in advancing my knowledge in other languages.
                         Follow the link to see my other tasks.
-                   <input type="button"><a href="Area_of_shapes"> more</a></p>
+                   <a href="Area_of_shapes"> more</a></p>
                 </ul>
             </li>
         </ul>
